@@ -123,9 +123,10 @@
     height: 25px;
 }
 
-.voice-search-icon {
-    width: 24px;
-}
+/* .voice-search-icon {
+    width: 10px;
+    align-items: center;
+} */
 
 .search-bar::placeholder {
     font-family: Roboto, Arial;
