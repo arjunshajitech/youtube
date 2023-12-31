@@ -1,0 +1,26 @@
+.footer {
+    color: rgb(0, 0, 0);
+    background-color: rgb(238, 233, 233);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    height: 50px;
+    font-family: Roboto, Arial;
+    font-size: 16px;
+}
+
+.footer-img {
+    width: 30px;
+    margin-right: 8px;
+}
+
+.name-link {
+    color: #111;
+    margin-left: 8px;
+    text-decoration: none;
+}
+
+.name-link:hover {
+    text-decoration: underline;
+}
